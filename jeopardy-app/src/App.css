@@ -1,0 +1,76 @@
+.App {
+    text-align: center;
+    background-color: #256475;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 2rem;
+    position: relative;
+  }
+  h1 {
+    color: white;
+  }
+  
+  .main {
+  
+  }
+  
+  .title {
+    font-size: 6rem;
+  }
+  
+  button {
+  }
+  
+  .score {
+    color: yellow;
+  }
+  
+  .decrease {
+    background-color: tomato;
+    font-size: large;
+    border: solid tomato;
+    padding: 15px;
+    margin: 2rem;
+    border-radius: 10px;
+  }
+  .increase {
+    background-color: #3f5081;
+    font-size: large;
+    border: solid #3f5081;
+    padding: 15px;
+    margin: 2rem;
+    border-radius: 10px;
+  }
+  .rest {
+    background-color: red;
+    font-size: large;
+    border: solid red;
+    padding: 15px;
+    margin: 2rem;
+    border-radius: 10px;
+  }
+  .get-question {
+    background-color: yellow;
+    font-size: large;
+    border: solid yellow;
+    padding: 15px;
+    margin: 2rem;
+    border-radius: 10px;
+  }
+  
+  .reveal {
+    background-color: darkblue;
+    color: white;
+    border: solid darkblue;
+    font-size: large;
+    padding: 15px;
+    margin-bottom: 4rem;
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    position: relative;
+    right: 5px;
+    bottom: 5px;
+    font-size: 1.2rem;
+  }
